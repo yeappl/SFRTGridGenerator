@@ -1,0 +1,11 @@
+C:\Users\varianinstaller\source\repos\PL\SFRTGridTubeGenerator\obj\Debug\SFRTGridTubeGenerator.csproj.AssemblyReference.cache
+C:\Users\varianinstaller\source\repos\PL\SFRTGridTubeGenerator\obj\Debug\InputDialog.baml
+C:\Users\varianinstaller\source\repos\PL\SFRTGridTubeGenerator\obj\Debug\InputDialog.g.cs
+C:\Users\varianinstaller\source\repos\PL\SFRTGridTubeGenerator\obj\Debug\SFRTGridTubeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\varianinstaller\source\repos\PL\SFRTGridTubeGenerator\bin\Debug\SFRTGridTubeGenerator_v1.esapi.dll
+C:\Users\varianinstaller\source\repos\PL\SFRTGridTubeGenerator\bin\Debug\SFRTGridGenerator_v1_2.esapi.dll
+C:\Users\varianinstaller\source\repos\PL\SFRTGridTubeGenerator\bin\Debug\SFRTGridGenerator_v1_2.esapi.pdb
+C:\Users\varianinstaller\source\repos\PL\SFRTGridTubeGenerator\obj\Debug\SFRTGridGenerator_v1_2.esapi_MarkupCompile.cache
+C:\Users\varianinstaller\source\repos\PL\SFRTGridTubeGenerator\obj\Debug\SFRTGridGenerator_v1_2.esapi.g.resources
+C:\Users\varianinstaller\source\repos\PL\SFRTGridTubeGenerator\obj\Debug\SFRTGridGenerator_v1_2.esapi.dll
+C:\Users\varianinstaller\source\repos\PL\SFRTGridTubeGenerator\obj\Debug\SFRTGridGenerator_v1_2.esapi.pdb
