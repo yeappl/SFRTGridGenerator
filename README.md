@@ -39,6 +39,8 @@ The script opens a dialog with the following fields:
 | **Tube/Sphere gap (mm)** | The **boundary-to-boundary** (surface-to-surface) spacing between neighbouring tubes/spheres — *not* centre-to-centre. Must be positive. |
 | **Boundary margin (mm)** | Minimum 3D distance required between the tube/sphere surface and the target ROI's boundary. Must be non-negative. |
 
+![Grid Tube Generator dialog](GUI.png)
+
 ### How gap becomes lattice spacing
 
 Internally, the centre-to-centre lattice pitch is derived as:
@@ -132,6 +134,8 @@ achieved without ever constructing a raw cylinder or doing structure
 Boolean algebra — the circle is only drawn where the safety test already
 confirmed it belongs.
 
+![Grid Tube Generator dialog](Example_tubes.png)
+
 ### Sphere mode
 
 1. **Lattice**: candidate sphere centers (x, y, z) are generated on a
@@ -162,6 +166,8 @@ confirmed it belongs.
    from the sphere center. Slices where this would produce a radius below
    `MinSphereSliceRadiusMm` (default 0.1 mm) are skipped to avoid degenerate
    polygons at the poles.
+
+![Grid Tube Generator dialog](Example_spheres.png)
 
 ---
 
