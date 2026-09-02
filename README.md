@@ -173,8 +173,7 @@ confirmed it belongs.
 
 ## Tunable constants
 
-These are not exposed in the input dialog (only the four requested inputs
-are) but materially affect runtime and packing quality. They live in the
+These are not exposed in the input dialog but materially affect runtime and packing quality. They live in the
 `#region Tunable constants` block near the top of `GridTubeGenerator.cs`:
 
 | Constant | Default | Effect |
